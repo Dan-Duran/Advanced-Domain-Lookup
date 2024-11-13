@@ -2,6 +2,10 @@
 
 This Python terminal-based utility allows users to perform domain lookups, retrieving DNS records, WHOIS information, IP geolocation, and subdomains. It leverages the `dns.resolver`, `whois`, and `sublist3r` libraries, providing streamlined information for cybersecurity professionals and enthusiasts.
 
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 ## Features
 
 - DNS Record Retrieval (A, AAAA, MX, NS, TXT)
